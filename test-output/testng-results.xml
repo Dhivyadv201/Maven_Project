@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-22T10:14:33 IST" name="Default suite" finished-at="2024-11-22T10:14:49 IST" duration-ms="16055">
+    <groups>
+    </groups>
+    <test started-at="2024-11-22T10:14:33 IST" name="Default test" finished-at="2024-11-22T10:14:49 IST" duration-ms="16055">
+      <class name="com.runnerclass.OpenMRS_Runner">
+        <test-method is-config="true" signature="extendReportStartUp()[pri:0, instance:com.runnerclass.OpenMRS_Runner@2a693f59]" started-at="2024-11-22T10:14:32 IST" name="extendReportStartUp" finished-at="2024-11-22T10:14:33 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportStartUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runnerclass.OpenMRS_Runner@2a693f59]" started-at="2024-11-22T10:14:33 IST" name="setUp" finished-at="2024-11-22T10:14:37 IST" duration-ms="4306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validUserNameAndValidPasswordTest()[pri:0, instance:com.runnerclass.OpenMRS_Runner@2a693f59]" started-at="2024-11-22T10:14:37 IST" name="validUserNameAndValidPasswordTest" finished-at="2024-11-22T10:14:48 IST" duration-ms="11051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserNameAndValidPasswordTest -->
+        <test-method is-config="true" signature="termination()[pri:0, instance:com.runnerclass.OpenMRS_Runner@2a693f59]" started-at="2024-11-22T10:14:48 IST" name="termination" finished-at="2024-11-22T10:14:49 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termination -->
+        <test-method is-config="true" signature="extendReportEnd()[pri:0, instance:com.runnerclass.OpenMRS_Runner@2a693f59]" started-at="2024-11-22T10:14:49 IST" name="extendReportEnd" finished-at="2024-11-22T10:14:51 IST" duration-ms="2317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportEnd -->
+      </class> <!-- com.runnerclass.OpenMRS_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
